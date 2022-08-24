@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# expand all sidebar tabs
 show_full_navigation: true
 
 title: Team Echo (echoStudy)
@@ -29,8 +30,6 @@ url: "https://jiejasonliu.github.io" # the base hostname & protocol for your sit
 # Build settings
 remote_theme: CloudCannon/edition-jekyll-template
 plugins:
-  # - jekyll-sitemap
-  # - jekyll-seo-tag
   - jekyll-feed
 
 exclude:

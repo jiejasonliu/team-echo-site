@@ -4,4 +4,4 @@ category: Weekly Management Logs
 order: 2
 ---
 
-something our team did
+something our team did for week 2
