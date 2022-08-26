@@ -4,5 +4,8 @@ category: Individual Logs
 order: 2
 ---
 
-* August 24, 2022
-  - hi jon
+### **Week 1** (August 22 - August 26)
+    - `5.5 hours` Researching JWT authentication concepts and implementation details for .NET 5
+    - `1.5 hours` Team meetings
+        - Worked with Derrick, Jason and Mason
+    - `4 hrs` Work on JWT authentication implementation on AddIdentity github branch in the API repository
