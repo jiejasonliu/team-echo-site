@@ -18,3 +18,4 @@ order: 1
   - `2 hours` Fixed my solution for voice selection with Amazon Polly. All affected files replaced.
   - `1 hour` Team Meetings with Derrick, Jason, and Jon
   - `1 hour` Populated our empty README.md file for the backend
+  - `1 hour` JWT Research
