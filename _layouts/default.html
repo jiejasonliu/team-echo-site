@@ -39,6 +39,20 @@
 						</li>
 					{% endfor %}
 				</ul>
+
+				<ul>
+					{% assign grouped_links = site.links | group_by: 'title' %}
+					{% for group_link in grouped_links %}
+						{% assign link_items = group_link.items %}
+						{% for link_item in link_items %}
+							<li class="nav-item top-level">
+								<a class="group-container" href="{{ link_item.href }}" {% if link_item.newtab %}target="_blank"{% endif %}>
+									{{ link_item.title }}
+								</a>
+							</li>
+						{% endfor %}
+					{% endfor %}
+				</ul>
 			</nav>
 		</header>
 

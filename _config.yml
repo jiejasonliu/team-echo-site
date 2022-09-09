@@ -43,6 +43,8 @@ collections:
     title: Documentation
     permalink: /:path/
     output: true
+  links:
+    title: External Links
 
 defaults:
   -
