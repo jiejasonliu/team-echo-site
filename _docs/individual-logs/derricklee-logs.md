@@ -4,7 +4,18 @@ category: Individual Logs
 order: 4
 ---
 
-### Week 2 (August 27 - August 2)
+### Week 3 (Sept 2 - Sept 9)
+
+- `1.5 hours` Study Page (9/2)
+- `2 hours` Study Page MR & ResourceLoader (9/2)
+- `1 hour` Resource Loader (9/2)
+- `3.5 hours` Landing Page Mocks (9/3)
+- `1 hour` Landing Page Mocks (9/4)
+- `5 hours` Design Docs Team meeting & Study Page (9/5)
+- `2 hours` create lesson hook (9/8)
+- `5 hours` create lesson hook and Design Docs Team/Weekly WMR meeting (9/9)
+
+### Week 2 (August 27 - Sept 2)
 
 - `8 hours` Flashcard Audio Event Loop and Study Flashcard
 - `3 hours` Flashcard Audio Event Loop MR comments
