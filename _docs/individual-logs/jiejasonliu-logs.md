@@ -4,14 +4,18 @@ category: Individual Logs
 order: 3
 ---
 
-### Week 2 (August 27 - Sept 2)
+### Week 3 (September 3 - September 9)
+  - `6 hours` Landing Page
+  - `3 hours` Responsiveness (for mobile, tablets, and desktop viewing)
+  - `4 hours` JWT fetch wrapper improvements (utilize token rotation)
+  - `3 hours` Team meetings (regular, design doc)
+
+### Week 2 (August 27 - September 2)
   - `4 hours` Finalize and publish automatic deployment script
   - `4 hours` JWT fetch wrapper
   - `1 hour` Discussion and planning for registration and landing flows
   - `1 hour` Codebase improvements
   - `1.5 hours` Team meetings
-
----
 
 ### Week 1 (August 22 - August 26)
   - `3 hours` Working prototype of automatic deployment script
