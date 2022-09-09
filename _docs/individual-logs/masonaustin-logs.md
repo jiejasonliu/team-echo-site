@@ -6,7 +6,7 @@ order: 1
 
 ### Week 3 (September 3 - September 9)
   - `2 hours` Bugfixed our API that used JWT tokens so that the tests passed
-  - `2 hours` Updated the design document
+  - `2.25 hours` Updated the design document
     - Worked with Derrick, Jason, and Jon
   - `6 hours` Updated the test project to send every type of request to each endpoint and validate every response
 
