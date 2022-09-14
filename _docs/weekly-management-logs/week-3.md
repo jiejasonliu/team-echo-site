@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: Week 3
 category: Weekly Management Logs
 order: 3
---- -->
+---
 
 # CS4500 Weekly Management Report
 
