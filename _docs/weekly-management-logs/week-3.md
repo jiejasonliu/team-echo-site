@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Week 3
 category: Weekly Management Logs
 order: 3
----
+--- -->
 
 # CS4500 Weekly Management Report
 
@@ -38,6 +38,7 @@ order: 3
 ### Goals & Priorities
 
 Long-term goals:
+
 - **CRUD Account (B5)** -- (Mason, 9/25)
 - **Voice Recognition (P4)** -- (Derrick, 9/25)
 - **Multiple user support (B7)** -- (Jon, 9/25)
@@ -46,6 +47,7 @@ Long-term goals:
 - **Continue as guest (P7)**  -- (Mason, 10/2)
 
 Short-term goals:
+
 - **Sync Audio Lesson with card flipping (B6)** -- (Jason, 9/18)
 - **Study Deck Page (B1)** -- (Derrick, 9/18)
 - **Multiple user support (B7, partial)**
@@ -53,7 +55,7 @@ Short-term goals:
   - API overhaul and testing -- (Mason, 9/18)
 - **CRUD Account (B5, partial)**
   - User accounts serialization (Jon, 9/18)
-  - User accounts API interface (Maosn, 9/18) 
+  - User accounts API interface (Mason, 9/18) 
 
 ### Needs
 
