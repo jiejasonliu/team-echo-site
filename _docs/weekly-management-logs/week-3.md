@@ -14,49 +14,46 @@ order: 3
 
 ### Accomplishments
 
-- Add Lesson page (Derrick)
-- Audio player (Derrick)
-- Finish layout of study page (Derrick)
-- Landing page (Jason)
-- User auth with refresh tokens (JWT) implemented (Jon)
-- Responsive styling (Jason)
-  - Many components now responsive on all screen sizes: mobile, tablet, desktop
-- Fetch controller improvements (Jason)
-  - Support JWT token rotation for user login persistence, request cancellation
-- Testing project suite for JWT API implementation (Mason)
-- Design Doc Update 3:
-  - updated timeline frontend work (Derrick)
-  - updated timeline backend data work (Jon)
-  - updated timeline backend api work (Mason)
-  - updated system features (Jason)
+- **Generate Audio Lesson (B3)**
+  - Handle S3 storage (Mason)
+  - Test API for correctness (Mason)
+  - Study Page for Lesson (Derrick)
+  - Audio Player and ResourceLoader (Derrick)
+  - Lesson Controller (Derrick)
+- **Pleasing Landing Page (W8)**
+  - Create initial mocks (Derrick)
+  - Skeleton Landing Page Layout (Jason) 
+  - Responsive styling for devices (Jason)
+- **User Authentication (B2)**
+  - User auth with JWT refresh tokens (Jon) 
+  - Token rotation (Jon)
+  - Test JWT tokens suite (Mason)
+  - Frontend token consumption (Jason)
+- **Design Doc -- Update 3**
+  - Updated timeline frontend work (Derrick)
+  - Updated timeline backend data work (Jon)
+  - Updated timeline backend API work (Mason)
+  - Updated system features (Jason)
 
 ### Goals & Priorities
 
 Long-term goals:
-
-- Backend support for learning/study sessions (All Due 9/26)
-- Front-end learning/study session (All Due 9/26)
-  - Study Session Pages (Derrick)
-  - Spaced Repetition (Jason)
-- Social/sharing features (All Due 10/17)
-  - UX Mocks (Derrick)
-  - Personal Account Pages (Jason)
-  - Front-end user, public, private decks (Jason)
-    - Hooks, controllers, etc.
-- Voice Recognition (Derrick, Due 9/25)
-- Account Menubar Popups (Jason, Due 9/25)
-- Spaced Repetition Scoring System (Mason, Due 9/25)
-- Spaced Recongition Fuzzy Language Matching (Derrick, 9/25)
+- **CRUD Account (B5)** -- (Mason, 9/25)
+- **Voice Recognition (P4)** -- (Derrick, 9/25)
+- **Multiple user support (B7)** -- (Jon, 9/25)
+- **Utilize Spaced Repetition for studying (B4)** -- (Jason, 9/25)
+- **Study Results Page (P6)** -- (Derrick, 10/2)
+- **Continue as guest (P7)**  -- (Mason, 10/2)
 
 Short-term goals:
-
-- User profiles and registration data model (Jon, Due 9/16)
-- Retrieve user profiles -- sharing, API interface (Mason, 9/16)
-- Spaced Repetition Research (Jason, Due 9/16)
-- Frontend controllers for registration (Jason, Due 9/16)
-- Create Lesson Hook (Derrick, Due 9/12)
-- Registration pages (Derrick, Due 9/16)
-- Speech Recognition (Derrick, Due 9/16)
+- **Sync Audio Lesson with card flipping (B6)** -- (Jason, 9/18)
+- **Study Deck Page (B1)** -- (Derrick, 9/18)
+- **Multiple user support (B7, partial)**
+  - Controllers and DB design -- (Jon, 9/18)
+  - API overhaul and testing -- (Mason, 9/18)
+- **CRUD Account (B5, partial)**
+  - User accounts serialization (Jon, 9/18)
+  - User accounts API interface (Maosn, 9/18) 
 
 ### Needs
 
