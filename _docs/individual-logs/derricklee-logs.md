@@ -4,6 +4,14 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 4 (September 10 - September 16)
+
+- `11.5 hours` Speech Recognition (Research, Implementation, MR)
+- `4.5 hours` Initial Sign in/up Components
+- `1 hour` Study Decks Page
+- `4 hours` Team meetings (regular, design doc)
+  - Worked with Mason, Jason, and Jon
+
 ### Week 3 (Sept 2 - Sept 9)
 
 - `1.5 hours` Study Page (9/2)
