@@ -7,7 +7,7 @@ order: 3
 ### Week 4 (September 10 - September 16)
   - `4 hours` Implement base repetition algorithm (via the Leitner System)
   - `2 hours` Responsive discovery pages on smaller devices
-  - `1 hours` Improve study (audio) player by ensuring it's synchronized
+  - `1 hour` Improve study (audio) player by ensuring it's synchronized
   - `2.5 hours` Registration form validation
   - `4 hours` Team meetings (regular, design doc)
 
