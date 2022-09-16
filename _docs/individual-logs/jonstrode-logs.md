@@ -4,6 +4,16 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 4 (September 10 - September 16)
+  - `2 hours` Design Doc Update (Timeline)
+    - Worked with Derrick, Jason, and Mason
+  - `1 hour` Implement support for anonymous authentication tokens
+    - Supports feature B7: Multiple User Support
+  - `2 hours` Implement basic user registration
+    - Supports feature B7: Multiple User Support
+  - `2 hours` Fix progress-blocking bugs and update documentation in Cards and Decks controllers
+    - Related to Multiple User Support / User Authentication features B2 and B7
+
 ### Week 3 (September 3 - September 9)
   - `2.25 hours` Design Doc Update
     - Worked with Derrick, Jason, and Mason
