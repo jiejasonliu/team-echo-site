@@ -4,6 +4,12 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 4 (September 10 - September 16)
+  - `3 hours` Updated testing project to test basic functionality of newest authorization endpoints
+  - `3 hours` Implemented update, delete, and read endpoints for users
+  - `4 hours` Team meetings for design document and general discussion
+    - Worked with Derrick, Jason, and Jon
+
 ### Week 3 (September 3 - September 9)
   - `2 hours` Bugfixed our API that used JWT tokens so that the tests passed
   - `2.25 hours` Updated the design document
