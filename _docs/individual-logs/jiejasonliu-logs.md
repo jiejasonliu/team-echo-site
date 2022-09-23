@@ -4,6 +4,13 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 5 (September 17 - September 23)
+  - `4 hours` Profile Account Popup
+  - `3 hours` Personal Profile Page
+  - `2 hours` Responsive redesign to account for account popup
+  - `1 hour` Server SSL certification
+  - `3 hours` Team meetings (regular, demo prep)
+
 ### Week 4 (September 10 - September 16)
   - `4 hours` Implement base repetition algorithm (via the Leitner System)
   - `2 hours` Responsive discovery pages on smaller devices
