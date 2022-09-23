@@ -22,6 +22,7 @@ order: 5
   - Update card scores — (Mason)
 - **(P1, partial)** View publicly and private shared decks
   - Tentative admin controllers — (Jon)
+  - Public controller - (Jon)
 
 ### Goals & Priorities
 
