@@ -4,6 +4,13 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 5 (September 17 - September 23)
+  - `4 hours` Implemented CRUD endpoints for user accounts
+  - `2 hours` Basic functionality testing implemented for CRUD user endpoints.
+  - `1 hour` Implemented endpoint for "studying" cards with basic testing.
+  - `2 hours` Team meetings
+    - Worked with Derrick, Jason, and Jon
+
 ### Week 4 (September 10 - September 16)
   - `3 hours` Updated testing project to test basic functionality of newest authorization endpoints
   - `3 hours` Implemented update, delete, and read endpoints for users
