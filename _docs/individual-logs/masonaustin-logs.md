@@ -8,6 +8,7 @@ order: 1
   - `4 hours` Implemented CRUD endpoints for user accounts
   - `2 hours` Basic functionality testing implemented for CRUD user endpoints.
   - `1 hour` Implemented endpoint for "studying" cards with basic testing.
+  - `1 hour` Added study data to existing Decks API. 
   - `2 hours` Team meetings
     - Worked with Derrick, Jason, and Jon
 
