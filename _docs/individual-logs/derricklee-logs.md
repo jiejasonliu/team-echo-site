@@ -4,6 +4,15 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 5 (September 16 - September 23)
+
+- `7 hours` Study Results Page (9/17)
+- `10 hours` Study Results page (9/19)
+- `4 hours` Refactored Kebab Menu, Study Results page, Team Meeting (9/20)
+- `2 hours` Refactored Kebab Menu, Profile Mockups (9/21)
+- `3 hours` Study Results Page(Kebab Menu), Team Meeting (9/22)
+- `3 hours` Study Lesson Sound Effects (9/23)
+
 ### Week 4 (September 10 - September 16)
 
 - `11.5 hours` Speech Recognition (Research, Implementation, MR)
