@@ -4,6 +4,16 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 5 (September 17 - September 23)
+  - `3 hours` Research Role-based authorization with JWTs
+    - Supports feature B7: Multiple User Support
+  - `.5 hours` Develop Administrator controller skeleton
+    - Supports feature B7: Multiple User Support
+  - `1 hour` Implement basic Public controller
+    - Supports feature P1: View publically and privately shared decks
+  - `2 hours` Team meetings
+    - Worked with Jason, Mason, Derrick
+
 ### Week 4 (September 10 - September 16)
   - `2 hours` Design Doc Update (Timeline)
     - Worked with Derrick, Jason, and Mason
