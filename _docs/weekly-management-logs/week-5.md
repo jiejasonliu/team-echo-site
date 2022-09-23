@@ -16,7 +16,6 @@ order: 5
 
 - **(P5)** Personal Profile Page — (Jason)
 - **(B5)** CRUD Account — (Mason)
-- **(P4)** Voice Recognition to Categorize Responses — (Derrick)
 - **(P6, partial)** Study Results Page
   - Components view and ability to audit results — (Derrick)
 - **(B4, partial)** Utilize Spaced-Repetition for studying
