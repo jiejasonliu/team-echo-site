@@ -4,6 +4,12 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 6 (September 24 - September 30)
+
+- `4 hours` Study Results Page
+- `2 hours` Fix Lesson Player bug
+- `3 hours` Team meetings + Demo Prep with Jason, Mason and Jon
+
 ### Week 5 (September 16 - September 23)
 
 - `7 hours` Study Results Page (9/17)
