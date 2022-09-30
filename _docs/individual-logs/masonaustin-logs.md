@@ -4,6 +4,12 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 6 (September 24 - September 30)
+  - `4 hours` CRUD tests made to be more exhaustive
+  - `2 hours` Two factor authentication research
+  - `3 hours` Team meetings
+    - Worked with Derrick, Jason, and Jon
+
 ### Week 5 (September 17 - September 23)
   - `4 hours` Implemented CRUD endpoints for user accounts
   - `2 hours` Basic functionality testing implemented for CRUD user endpoints.
