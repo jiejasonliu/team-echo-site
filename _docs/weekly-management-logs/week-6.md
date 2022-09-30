@@ -17,11 +17,11 @@ order: 6
 - **(B4)** Utilize spaced repetition for studying — (Jason)
 - **(P6)** Study Results Page
   - Tie in extra metadata — (Derrick)
-  - Serialize scores - (Jason)
-  - Combine study and score endpoints - (Mason)
+  - Serialize scores — (Jason)
+  - Combine study and score endpoints — (Mason)
 - **(P1, partial)** View publicly and private shared decks
   - Sharing infrastructure — (Jon)
-  - Calculated fields on decks - (Jon)
+  - Calculated fields on decks — (Jon)
 
 ### Goals & Priorities
 
@@ -30,7 +30,7 @@ Long-term goals:
 - **(W4)** Account Statistics and Study Recommendations — (Jon, 10/17)
 - **(W3)** Deck and Card Visual Customization — (Derrick, 10/18)
 - **(W7)** Audio Sound Cues / Seeking — (Derrick, 10/19)
-  - (i.e, improving them, making correct sound cue more audible)
+  - (i.e.) improving them, making correct sound cue more audible
 
 Short-term goals:
 - **(P7, partial)** Continue as guest
