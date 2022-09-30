@@ -4,6 +4,12 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 6 (September 24 - September 30)
+  - `4 hours` Study results scoring serialization
+  - `2 hours` Spaced Repetition utilized
+  - `2 hours` Make multiple requests to refresh JWT mutually exclusive
+  - `3 hours` Team meetings (regular, demo prep)
+
 ### Week 5 (September 17 - September 23)
   - `4 hours` Profile Account Popup
   - `3 hours` Personal Profile Page
