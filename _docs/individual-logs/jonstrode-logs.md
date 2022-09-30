@@ -4,6 +4,16 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 6 (September 24 - September 30)
+  - `2 hours` Alpha Demo Prep
+  - `2 hours` API model and database updates related to deck study progress
+    - Supports feature B1: Study Deck Page
+  - `2 hours` Conceptualize deck sharing infrastructure
+    - Supports feature P1: View publically and privately shared decks
+    - Supports feature W2: Deck collaboration
+  - `2 hours` Team meetings
+    - Worked with Jason, Mason, Derrick
+
 ### Week 5 (September 17 - September 23)
   - `3 hours` Research Role-based authorization with JWTs
     - Supports feature B7: Multiple User Support
