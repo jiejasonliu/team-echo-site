@@ -4,6 +4,13 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 7 (October 1 - October 7)
+  - `4 hours` Work on deck sharing infrastructure
+    - Supports feature P1: View publically and privately shared decks
+    - Supports feature W2: Deck collaboration
+  - `2 hours` Team meetings
+    - Worked with Jason, Mason, Derrick
+
 ### Week 6 (September 24 - September 30)
   - `2 hours` Alpha Demo Prep
   - `2 hours` API model and database updates related to deck study progress

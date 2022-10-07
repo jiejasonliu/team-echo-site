@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_docs"
+    "\\_docs",
+    "\\_docs\\individual-logs",
+    "\\_docs\\weekly-management-logs"
   ],
-  "SelectedNode": "\\_docs\\individual-logs",
+  "SelectedNode": "\\_docs\\individual-logs\\jonstrode-logs.md",
   "PreviewInSolutionExplorer": false
 }
