@@ -4,6 +4,13 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 7 (October 1 - October 7)
+
+- `1 hours` Reviewing Jason's MRs
+- `2 hours` Team Meetings with Jason, Mason, and Jon
+- `3 hours` Category Search Bar
+- `3 hours` Search Page
+
 ### Week 6 (September 24 - September 30)
 
 - `4 hours` Study Results Page
