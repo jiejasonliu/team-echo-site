@@ -4,6 +4,15 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 7 (October 1 - October 7)
+  - `2 hours` Sign-in form validation
+  - `2 hours` Fix iOS devices not autoplaying lesson
+  - `2 hours` Continue as guest functionality
+  - `3 hours` Export cards/deck popup
+  - `1 hour` Improve codebase readability with path aliases
+  - `1 hour` Various bug fixes (i.e. sidebar on error page, empty card serialization)
+  - `2 hours` Team meetings (regular standup)
+
 ### Week 6 (September 24 - September 30)
   - `4 hours` Study results scoring serialization
   - `2 hours` Spaced Repetition utilized
