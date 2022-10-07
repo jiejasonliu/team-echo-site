@@ -4,6 +4,12 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 7 (October 1 - October 7)
+  - `2 hours` Added dates to users
+  - `2 hours` Implemented batch API requests
+  - `2 hours` Team meetings
+    - Worked with Derrick, Jason, and Jon
+
 ### Week 6 (September 24 - September 30)
   - `4 hours` CRUD tests made to be more exhaustive
   - `2 hours` Two factor authentication research
