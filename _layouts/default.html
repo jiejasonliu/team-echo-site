@@ -22,7 +22,18 @@
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
-			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
+			<nav id="link-nav" {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
+				<ul>
+					{% assign links = site.links %}
+					{% for link in links %}
+						<li class="nav-item top-level">
+							<a class="group-container" href="{{ link.href }}" {% if link.newtab %}target="_blank"{% endif %}>
+								{{ link.title }}
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+
 				<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
@@ -37,20 +48,6 @@
 								{% endfor %}
 							</ul>
 						</li>
-					{% endfor %}
-				</ul>
-
-				<ul>
-					{% assign grouped_links = site.links | group_by: 'title' %}
-					{% for group_link in grouped_links %}
-						{% assign link_items = group_link.items %}
-						{% for link_item in link_items %}
-							<li class="nav-item top-level">
-								<a class="group-container" href="{{ link_item.href }}" {% if link_item.newtab %}target="_blank"{% endif %}>
-									{{ link_item.title }}
-								</a>
-							</li>
-						{% endfor %}
 					{% endfor %}
 				</ul>
 			</nav>

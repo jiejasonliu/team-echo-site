@@ -84,8 +84,11 @@ header {
 	top: 0;
 	left: 0;
 	right: 0;
-	overflow-x: hidden;
 	z-index: 1;
+	height: 100vh;
+
+	overflow-x: clip;
+	overflow-y: auto;
 	background-color: $nav-background-color;
 
 	ul {
@@ -116,6 +119,10 @@ header {
 			margin-right: $space - 5;
 		}
 	}
+
+#link-nav {
+	padding-bottom: 8vmin;
+}
 
 $nav-image: $baseurl + "/images/menu.svg";
 	.open-nav {
