@@ -85,11 +85,14 @@ header {
 	left: 0;
 	right: 0;
 	z-index: 1;
-	height: 100vh;
 
 	overflow-x: clip;
 	overflow-y: auto;
 	background-color: $nav-background-color;
+
+	@media (min-width: $mobile-break) {
+		height: 100vh;
+	}
 
 	ul {
 		padding: 0;
