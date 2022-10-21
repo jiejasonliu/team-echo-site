@@ -8,7 +8,7 @@ order: 4
 
 - `1.5 hours` Team Meetings with Jason, Mason, and Jon
 - `0.5 hours` Design Doc Update with Jason, Mason, and Jon
-- `4 hours` User Guid Draft with Jason, Mason, and Jon
+- `4 hours` User Guide Draft with Jason, Mason, and Jon
 - `8 hours` User Profile Pages
 
 ### Week 7 (October 1 - October 7)
