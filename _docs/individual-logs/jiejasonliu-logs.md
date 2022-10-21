@@ -4,6 +4,14 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 8 (October 15 - October 21)
+
+- `6 hours` Configuration popups
+- `2 hours` Mobile viewport accessibility improvements
+- `0.5 hours` Design Document (Update 2)
+- `4 hours` User Guide Draft
+- `1.5 hours` Team meetings (regular standup)
+
 ### Week 7 (October 1 - October 7)
   - `2 hours` Sign-in form validation
   - `2 hours` Fix iOS devices not autoplaying lesson
