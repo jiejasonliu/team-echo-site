@@ -4,6 +4,17 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 8 (October 15 - October 21)
+  - `6 hours` Complete basic deck sharing infrastructure
+    - Supports feature P1: View publically and privately shared decks
+    - Supports feature W2: Deck collaboration
+  - `1.5 hours` Team meetings
+    - Worked with Jason, Mason, Derrick
+  - `0.5 hours` Design Doc update
+    - Worked with Jason, Mason, Derrick
+  - `4 hours` User Guide draft
+    - Worked with Jason, Mason, Derrick
+
 ### Week 7 (October 1 - October 7)
   - `4 hours` Work on deck sharing infrastructure
     - Supports feature P1: View publically and privately shared decks
