@@ -4,6 +4,13 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 8 (October 15 - October 21)
+
+- `1.5 hours` Team Meetings with Jason, Mason, and Jon
+- `0.5 hours` Design Doc Update with Jason, Mason, and Jon
+- `4 hours` User Guid Draft with Jason, Mason, and Jon
+- `8 hours` User Profile Pages
+
 ### Week 7 (October 1 - October 7)
 
 - `1 hours` Reviewing Jason's MRs
