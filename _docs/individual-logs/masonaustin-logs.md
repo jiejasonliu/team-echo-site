@@ -4,6 +4,18 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 8 (October 15 - October 21)
+
+- `1.5 hours` Team Meetings
+    - Worked with Derrick, Jason, and Jon
+- `0.5 hours` Design Doc Update
+    - Worked with Derrick, Jason, and Jon
+- `4 hours` User Guide Draft
+    - Worked with Derrick, Jason, and Jon
+- `0.5 hour` Various API methods changed to follow batch design
+- `2 hours` Refined methods relating to user details 
+- `2 hours` Refined and added user statistics returned with each deck
+
 ### Week 7 (October 1 - October 7)
   - `2 hours` Added deck sharing endpoints
   - `2 hours` Added dates to users
