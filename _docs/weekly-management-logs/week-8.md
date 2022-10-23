@@ -41,6 +41,7 @@ Long-term goals:
 - **(W2)** Deck Collaboration — (Jon, 11/18)
 - Final User Guide — (12/2)
 - Final Design Document — (12/2)
+- Final Demo Day — (12/9)
 
 ### Needs
 
