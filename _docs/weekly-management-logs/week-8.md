@@ -39,6 +39,7 @@ Long-term goals:
 - **(W1)** Uploading Custom Audio — (Mason, 11/18)
 - **(W6)** Pleasing Landing Page — (Jason, 11/18)
 - **(W2)** Deck Collaboration — (Jon, 11/18)
+- **(W8)** In-App User Guide for Studying — (Mason, 11/25)
 - Final User Guide — (12/2)
 - Final Design Document — (12/2)
 - Final Demo Day — (12/9)
