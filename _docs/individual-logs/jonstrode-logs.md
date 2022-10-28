@@ -4,6 +4,15 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 9 (October 22 - 28)
+  - `2 hours` Beta Demo Prep
+    - Worked with Jason, Mason, Derrick
+  - `1 hour` Update User Guide
+    - Worked with Jason, Mason, Derrick
+  - `2 hours` Fixes for Public Controller
+    - Supports feature P1: View publically and privately shared decks
+    - Supports feature W2: Deck collaboration
+
 ### Week 8 (October 15 - October 21)
   - `6 hours` Complete basic deck sharing infrastructure
     - Supports feature P1: View publically and privately shared decks
