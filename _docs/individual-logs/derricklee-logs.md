@@ -4,6 +4,15 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 9 (October 22 - 28)
+
+- `2 hours` Beta Demo Prep
+  - Worked with Derrick, Jason, and Jon
+- `1 hour` Update User Guide
+  - Worked with Derrick, Jason, and Jon
+- `3 hour` Bubble Tags
+- `2 hour` Display correct study percentages
+
 ### Week 8 (October 15 - October 21)
 
 - `1.5 hours` Team Meetings with Jason, Mason, and Jon
