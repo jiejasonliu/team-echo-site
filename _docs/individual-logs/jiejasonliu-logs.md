@@ -4,6 +4,12 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 9 (October 22 - 28)
+  - `3 hours` Lesson page mobile improvements
+  - `3 hours` Lesson config architecture
+  - `1 hour` Tentative fix for random logouts
+  - `1 hour` Update User Guide Draft
+
 ### Week 8 (October 15 - October 21)
 
 - `6 hours` Configuration popups
