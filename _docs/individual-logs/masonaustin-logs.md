@@ -4,6 +4,15 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 9 (October 22 - 28)
+  - `2 hours` Beta Demo Prep
+    - Worked with Derrick, Jason, and Jon
+  - `1 hour` Update User Guide
+    - Worked with Derrick, Jason, and Jon
+  - `2 hours` Researched other APIs and standard naming practices
+  - `1 hour` API names changed to follow standard naming practices
+  - `1 hour` Explored frontend architecture and updated API calls
+
 ### Week 8 (October 15 - October 21)
 
 - `1.5 hours` Team Meetings
