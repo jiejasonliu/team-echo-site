@@ -39,9 +39,9 @@ Long-term goals:
 - **(W6)** Pleasing Landing Page — (Jason, 11/18)
 - **(W2)** Deck Collaboration — (Jon, 11/18)
 - **(W8)** In-App User Guide for Studying — (Mason, 11/25)
-- Final User Guide — (12/2)
-- Final Design Document — (12/2)
-- Final Demo Day — (12/9)
+- Final User Guide — (Jon, 12/2)
+- Final Design Document — (Mason, 12/2)
+- Final Demo Day — (Derrick, 12/9)
 
 ### Needs
 
