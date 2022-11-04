@@ -4,7 +4,13 @@ category: Individual Logs
 order: 3
 ---
 
-### Week 9 (October 22 - 28)
+### Week 10 (October 29 - November 4)
+  - `8 hours` Lesson player advanced options
+  - `4 hours` Refactor lesson player architecture
+  - `0.5 hour` Account statistics bug fix
+  - `1.5 hours` Team meetings (regular standup)
+
+### Week 9 (October 22 - October 28)
   - `3 hours` Lesson page mobile improvements
   - `3 hours` Lesson config architecture
   - `1 hour` Tentative fix for random logouts
