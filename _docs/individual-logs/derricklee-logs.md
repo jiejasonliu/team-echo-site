@@ -4,12 +4,19 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 10 (October 28 - November 4)
+
+- `1.5 hours` Group meeting
+  - Worked with Mason, Jason, and Jon
+- `4 hours` Pleasing Animations
+- `4 hours` Uploading Custom Audio UI
+
 ### Week 9 (October 22 - 28)
 
 - `2 hours` Beta Demo Prep
-  - Worked with Derrick, Jason, and Jon
+  - Worked with Mason, Jason, and Jon
 - `1 hour` Update User Guide
-  - Worked with Derrick, Jason, and Jon
+  - Worked with Mason, Jason, and Jon
 - `3 hour` Bubble Tags
 - `2 hour` Display correct study percentages
 
