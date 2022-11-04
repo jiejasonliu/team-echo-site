@@ -4,18 +4,24 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 10 (October 29 - November 4)
+  - `1.5 hours` Team Meetings
+    - Worked with Jason, Mason, Derrick
+  - `6 hours` Implement backend support for Study Activity
+    - Supports feature W4: Account and Activity Statistics
+
 ### Week 9 (October 22 - 28)
   - `2 hours` Beta Demo Prep
     - Worked with Jason, Mason, Derrick
   - `1 hour` Update User Guide
     - Worked with Jason, Mason, Derrick
   - `2 hours` Fixes for Public Controller
-    - Supports feature P1: View publically and privately shared decks
+    - Supports feature P1: View publicly and privately shared decks
     - Supports feature W2: Deck collaboration
 
 ### Week 8 (October 15 - October 21)
   - `6 hours` Complete basic deck sharing infrastructure
-    - Supports feature P1: View publically and privately shared decks
+    - Supports feature P1: View publicly and privately shared decks
     - Supports feature W2: Deck collaboration
   - `1.5 hours` Team meetings
     - Worked with Jason, Mason, Derrick
@@ -26,7 +32,7 @@ order: 2
 
 ### Week 7 (October 1 - October 7)
   - `4 hours` Work on deck sharing infrastructure
-    - Supports feature P1: View publically and privately shared decks
+    - Supports feature P1: View publicly and privately shared decks
     - Supports feature W2: Deck collaboration
   - `2 hours` Team meetings
     - Worked with Jason, Mason, Derrick
@@ -36,7 +42,7 @@ order: 2
   - `2 hours` API model and database updates related to deck study progress
     - Supports feature B1: Study Deck Page
   - `2 hours` Conceptualize deck sharing infrastructure
-    - Supports feature P1: View publically and privately shared decks
+    - Supports feature P1: View publicly and privately shared decks
     - Supports feature W2: Deck collaboration
   - `2 hours` Team meetings
     - Worked with Jason, Mason, Derrick
@@ -47,7 +53,7 @@ order: 2
   - `.5 hours` Develop Administrator controller skeleton
     - Supports feature B7: Multiple User Support
   - `1 hour` Implement basic Public controller
-    - Supports feature P1: View publically and privately shared decks
+    - Supports feature P1: View publicly and privately shared decks
   - `2 hours` Team meetings
     - Worked with Jason, Mason, Derrick
 
