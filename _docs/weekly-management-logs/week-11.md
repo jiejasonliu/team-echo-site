@@ -21,6 +21,9 @@ order: 11
   - Change audio file naming scheme — (Mason)
 - **(W6, partial)** Pleasing Landing Page
   - Style improvements — (Jason)
+- **(Other Bugfixes)** 
+  - Lesson card outcomes are kept — (Jason)
+  - Prevent study decks with empty cards — (Jason)
 
 ### Goals & Priorities
 
