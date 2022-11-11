@@ -4,6 +4,13 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 11 (November 5 - November 11)
+- `1 hours` Group meeting
+  - Worked with Mason, Jason, Derrick
+- `1 hour` Database fixes with StudyActivity model/table
+  - Supports feature W4: Account and Activity Statistics
+- `2 hours` Documentation and controller code structure fixes
+
 ### Week 10 (October 29 - November 4)
   - `1.5 hours` Team Meetings
     - Worked with Jason, Mason, Derrick
