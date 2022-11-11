@@ -4,7 +4,7 @@ category: Individual Logs
 order: 4
 ---
 
-### Week 10 (November 5 - November 11)
+### Week 11 (November 5 - November 11)
 
 - `1 hours` Group meeting
   - Worked with Mason, Jason, and Jon
