@@ -4,11 +4,15 @@ category: Individual Logs
 order: 1
 ---
 
+
+### Week 11 (October 5 - November 11)
+  - `6 hours` Updated test project
+  - `1 hour` Team meetings (regular standup)
+
 ### Week 10 (October 29 - November 4)
   - `3 hours` Explored approaches for custom audio and started on an implementation
   - `3 hours` Audio files from S3 now managed beyond uploading like previously
   - `1.5 hours` Team meetings (regular standup)
-
 
 ### Week 9 (October 22 - 28)
   - `2 hours` Beta Demo Prep
