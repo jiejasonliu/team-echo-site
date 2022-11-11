@@ -4,6 +4,11 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 11 (October 5 - November 11)
+  - `4 hours` Keep lesson card outcomes on replays
+  - `2 hours` Homepage and various style improvements
+  - `1 hour` Team meetings (regular standup)
+
 ### Week 10 (October 29 - November 4)
   - `8 hours` Lesson player advanced options
   - `4 hours` Refactor lesson player architecture
