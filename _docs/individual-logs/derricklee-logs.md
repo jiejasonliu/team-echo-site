@@ -4,6 +4,13 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 10 (November 5 - November 11)
+
+- `1 hours` Group meeting
+  - Worked with Mason, Jason, and Jon
+- `2 hours` Audio Sound Cues / Seeking 
+- `6 hours` Uploading Custom Audio UI
+
 ### Week 10 (October 28 - November 4)
 
 - `1.5 hours` Group meeting
