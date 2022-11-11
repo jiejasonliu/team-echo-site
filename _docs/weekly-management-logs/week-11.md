@@ -24,6 +24,7 @@ order: 11
 - **(Other Bugfixes)** 
   - Lesson card outcomes are kept — (Jason)
   - Prevent study decks with empty cards — (Jason)
+  - Backend API testing project updated - (Mason)
 
 ### Goals & Priorities
 
