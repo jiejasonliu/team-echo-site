@@ -4,6 +4,11 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 12 (October 12 - November 18)
+  - `6 hours` Make landing page aesthetically pleasing
+  - `2 hours` API client and UI improvements
+  - `1 hour` Team meetings (regular standup)
+
 ### Week 11 (October 5 - November 11)
   - `4 hours` Keep lesson card outcomes on replays
   - `2 hours` Homepage and various style improvements
