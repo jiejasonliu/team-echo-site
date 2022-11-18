@@ -4,6 +4,12 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 12 (November 12 - November 18)
+- `1.5 hours` Group meeting
+  - Worked with Mason, Jason, Derrick
+- `2 hours` Added public StudyActivity endpoints
+  - Supports feature W4: Account and Activity Statistics
+
 ### Week 11 (November 5 - November 11)
 - `1 hours` Group meeting
   - Worked with Mason, Jason, Derrick
