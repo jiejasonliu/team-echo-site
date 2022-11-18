@@ -6,7 +6,7 @@ order: 1
 
 ### Week 12 (October 12 - November 18)
   - `4 hours` Finished uploading custom audio
-  - `2 hours` API client and UI improvements
+  - `1 hour` Updated test project
   - `1 hour` Team meetings (regular standup)
 
 ### Week 11 (October 5 - November 11)
