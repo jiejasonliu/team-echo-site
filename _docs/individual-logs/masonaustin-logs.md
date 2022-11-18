@@ -4,8 +4,12 @@ category: Individual Logs
 order: 1
 ---
 
+### Week 12 (November 12 - November 18)
+  - `4 hours` Finished uploading custom audio
+  - `1 hour` Updated test project
+  - `1 hour` Team meetings (regular standup)
 
-### Week 11 (October 5 - November 11)
+### Week 11 (November 5 - November 11)
   - `6 hours` Updated test project
   - `1 hour` Team meetings (regular standup)
 
