@@ -9,6 +9,8 @@ order: 2
   - Worked with Mason, Jason, Derrick
 - `2 hours` Added public StudyActivity endpoints
   - Supports feature W4: Account and Activity Statistics
+- `1 hour` Fixed Gravatar profile pictures in User Info responses
+  - Supports features P5 and P8
 
 ### Week 11 (November 5 - November 11)
 - `1 hours` Group meeting
