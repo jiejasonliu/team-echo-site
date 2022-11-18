@@ -4,11 +4,18 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 12 (November 12 - November 18)
+
+- `1 hours` Group meeting
+  - Worked with Mason, Jason, and Jon
+- `4 hours` Uploading Custom Audio UI
+- `5 hours` Account Statistics UI
+
 ### Week 11 (November 5 - November 11)
 
 - `1 hours` Group meeting
   - Worked with Mason, Jason, and Jon
-- `2 hours` Audio Sound Cues / Seeking 
+- `2 hours` Audio Sound Cues / Seeking
 - `6 hours` Uploading Custom Audio UI
 
 ### Week 10 (October 28 - November 4)
