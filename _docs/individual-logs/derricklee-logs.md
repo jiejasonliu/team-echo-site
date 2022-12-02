@@ -5,9 +5,9 @@ order: 4
 ---
 
 ### Week 14 (November 26 - December 2)
- - `0.5 hours` group meeting
+- `0.5 hours` group meeting
   - Worked with Mason, Jason, Jon
-- `2 hours Finish` up Design Doc and User Guide, discuss Demo day
+- `2 hours` Finish up Design Doc and User Guide, discuss Demo day
   - Worked with Mason, Jason, Jon
   
 ### Week 13 (November 19 - November 25)
