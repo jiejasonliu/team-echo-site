@@ -4,6 +4,12 @@ category: Individual Logs
 order: 2
 ---
 
+### Week 14 (November 26 - December 2)
+- `0.5 hours` group meeting
+  - Worked with Mason, Jason, Derrick
+- `2 hours` Finish up Design Doc and User Guide, discuss Demo day
+  - Worked with Mason, Jason, Derrick
+
 ### Week 12 (November 12 - November 18)
 - `1.5 hours` Group meeting
   - Worked with Mason, Jason, Derrick
