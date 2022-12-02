@@ -4,6 +4,14 @@ category: Individual Logs
 order: 3
 ---
 
+### Week 14 (November 26 - December 2)
+  - `2 hours` Improve website flow and study lesson accuracy
+  - `2 hours` Finish up Design Doc and User Guide, discuss Demo day
+  - `1 hour` Team meetings (regular standup)
+  
+### Week 13 (November 19 - November 25)
+ - `4 hours` Fix some bugs on the backlog
+
 ### Week 12 (November 12 - November 18)
   - `6 hours` Make landing page aesthetically pleasing
   - `2 hours` API client and UI improvements
