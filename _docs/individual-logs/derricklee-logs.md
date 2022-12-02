@@ -4,12 +4,22 @@ category: Individual Logs
 order: 4
 ---
 
+### Week 14 (November 26 - December 2)
+ - `0.5 hours` group meeting
+  - Worked with Mason, Jason, Jon
+- `2 hours Finish` up Design Doc and User Guide, discuss Demo day
+  - Worked with Mason, Jason, Jon
+  
+### Week 13 (November 19 - November 25)
+ - `8 hours` Lesson Intro Video
+
 ### Week 12 (November 12 - November 18)
 
 - `1 hours` Group meeting
   - Worked with Mason, Jason, and Jon
 - `4 hours` Uploading Custom Audio UI
 - `5 hours` Account Statistics UI
+
 
 ### Week 11 (November 5 - November 11)
 
