@@ -7,7 +7,7 @@ order: 1
 
 ### Week 14 (November 26 - December 2)
 - `0.5 hours` group meeting
-  - Worked with Mason, Jason, Derrick
+  - Worked with Jon, Jason, Derrick
 - `2 hours` Finish up Design Doc and User Guide, discuss Demo day
 
 ### Week 12 (November 12 - November 18)
